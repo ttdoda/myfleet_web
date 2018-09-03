@@ -4,7 +4,7 @@
 
 MyFleetGirlsの静的コンテンツを分離する為のリポジトリです。Herokuにデプロイして運用します。
 
-http://myfleetweb.herokuapp.com/entire/about
+http://myfleet-web.herokuapp.com/entire/about
 
 Web変更でメインをdeployしたくないので作られました。
 
