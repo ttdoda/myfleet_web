@@ -6,7 +6,7 @@ package views
  * Date: 15/02/09.
  */
 object URL {
-  val Host = "https://myfleet.iwmt.org"
+  val Host = "https://myfleet.moe"
   def Index = Host
   val Entire = s"${Host}/entire"
   val Statistics = s"${Entire}/activities"
